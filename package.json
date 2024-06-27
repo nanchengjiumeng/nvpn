@@ -1,0 +1,16 @@
+{
+  "name": "@nancheng/win-vpn-route",
+  "version": "1.0.3",
+  "description": "",
+  "bin": {
+    "nvpn": "./bin/vpn.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.0"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
